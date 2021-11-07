@@ -1,0 +1,4 @@
+size : 12
+petals : 16
+color_1 : black
+pencolor : blue

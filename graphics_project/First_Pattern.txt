@@ -1,0 +1,5 @@
+size : 100
+length : 24
+color_1 : white
+color_2 : yellow
+color_3 : cyan

@@ -1,0 +1,4 @@
+size : 25
+length : 24
+color_1 : black
+color_2 : white

@@ -1,0 +1,11 @@
+star_size : 20 
+color_1 : blue
+color_2 : gold
+color_3 : orange
+color_4 : yellow
+color_5 : grey
+color_6 : purple
+color_7 : brown
+color_8 : cyan
+color_9 : blue
+color_10 : violet
