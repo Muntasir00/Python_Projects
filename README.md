@@ -1,2 +1,3 @@
 # Python_Projects
-just simply clone the repo and run any program from the repo,you can practica the code also,all the things/resources that are for the code purpose are commented out for better purpose.Happy coding.
+
+ For viewing any of the above project you  just need to clone the repo and run the .py file.For better understanding of the program necessary logic are commented out.You might need to install some python libraries.
