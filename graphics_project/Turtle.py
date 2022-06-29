@@ -547,7 +547,7 @@ def main_menu():  # Main menu function which displays the main interface of the 
         selection = int(input("Press 1 or 2 to select your option : "))
 
     if selection == 1:
-        choice = int(input("Please select a number between [1-4] to get the pattern : "))
+        choice = int(input("Please select a number between [1,3,4] to get the pattern : "))
         while choice != 1 and choice != 2 and choice != 3 and choice != 4:
             print("Invalid Selection , Please choose the correct option between [1-4] : ")
             choice = int(input())
